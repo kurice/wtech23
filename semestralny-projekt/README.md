@@ -1,7 +1,7 @@
 # Semestrálny projekt - elektronický obchod
 
 ## Zadanie
-Vytvorte webovú aplikáciu - eshop, ktorá komplexne rieši nižšie definované prípady použitia vo vami zvolenej doméne (napr. elektro, oblečenie, obuv, nábytok). Presný rozsah a konkretizáciu prípadov použitia si dohodnete s Vašim cvičiacim na cvičení.
+Vytvorte webovú aplikáciu - eshop, ktorá komplexne rieši nižšie definované prípady použitia vo vami zvolenej doméne (napr. elektro, oblečenie, obuv, nábytok). Presný rozsah a konkretizáciu prípadov použitia si dohodnete s vašim vyučujúcim.
 
 ## Tím
 Projekt vypracovávate v trojici. Každý z trojice sa musí podieľať na
@@ -70,7 +70,7 @@ Na prezentácii musia byť všetci členovia tímu.
 * upravenie/vymazanie existujúceho produktu administrátorom cez administrátorské rozhranie
 
 ## Dátový model
-V prvom kontrolnom termíne sa odovzdáva JPG (JPEG) obrázok fyzicého dátového modelu reprezentovaného UML class diagramom.
+V 1. fáze projektu sa odovzdáva (JPEG, PNG) obrázok fyzického dátového modelu reprezentovaného UML class diagramom.
 
 V 2. fáze projektu, sa databáza odovzdáva kompletná (dáta aj schéma, resp. DDL).
 
@@ -92,7 +92,7 @@ Za každý deň oneskoreného odovzdania je tímu odobratých 25% bodov z pôvod
  
  
 ## Kontrolná fáza progresu implementácie (4 body)
-V kontrolnej fáze - v 9. týždni - sa očakáva implementovaná klientská časť aplikácie. Fáza je hodnotená 4 bodmi, a to binárne. Tím letmo predvedie cvičiacemu funkčnosť klientskej aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať všetky prípady použitia (klientskej časti), každý študent z tímu získa 4 body. Kontrolný bod nie je povinný, neodovzdáva sa do AIS. Tieto body sú zahrnuté v celkovom hodnotení (max. 100 bodov v kurze).
+V kontrolnej fáze - v 9. týždni - sa očakáva implementovaná klientská časť aplikácie. Fáza je hodnotená 4 bodmi, a to binárne. Tím letmo predvedie cvičiacemu funkčnosť klientskej aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať všetky prípady použitia (klientskej časti), každý študent z tímu získa 4 body. Kontrolný bod nie je povinný, neodovzdáva sa do AIS. Tieto body sú zahrnuté v celkovom hodnotení (max. 100 bodov z kurzu).
 * **Kontrolný bod: 9. týždeň, na cvičení - 10.4. a 12.4, binárne hodnotenie 0/4 body**  implementácia klientskej časti eshopu so zostavením na serveri (server-side rendering) s využitím PHP rámca (odporúčaný Laravel) - so všetkými funkciami podľa požiadaviek v stave na predvedenie
 
 
@@ -159,7 +159,7 @@ konzistencia/jednotná konvencia pri názvosloví identifikátorov (max. 2b)
 
 #### Dokumentácia  (max. 3 body)
 * zadanie
-* diagram fyzického dátového modelu, v prípade zmien z 2. fázy, zdôvodniť zmenu (pozor - nie diagram logikého modelu z 2. fázy) - 1 bod
+* diagram fyzického dátového modelu, v prípade zmien z 2. fázy, zdôvodniť zmenu  - 1 bod
 * návrhové rozhodnutia (pridanie externej knižnice - zdôvodenie, rolu sme riešili takto, nepoužili sme oprávnenia, lebo...) - 1 bod
 * uviesť prog. prostredie (ak iné, ako odporúčané)
 * strunčný opis implementácie vybraných prípadov použitia (zmena množstva pre daný produkt, prihlásenie, vyhľadávanie, pridanie produktu do košíka, stránkovanie, základné filtrovanie) - 2 body

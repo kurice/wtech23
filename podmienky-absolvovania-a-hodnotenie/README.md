@@ -5,7 +5,7 @@
 **Projekt:** 52 (24+24+4) bodov  
 **Priebežný test:** 8 bodov (minimum 3 body)  
 **Záverečný test (skúška):** 40 bodov  
-**Spolu:** 100 (55 + 45) bodov  
+**Spolu:** 100 (52 + 8 + 40) bodov  
 
 ### Známka
 A - výborne, 92 až 100 bodov   

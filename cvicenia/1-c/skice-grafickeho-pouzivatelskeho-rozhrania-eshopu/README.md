@@ -15,7 +15,7 @@
 
 **Vytvorte skice jednotlivých stránok pre zariadenia extra large (desktop, >= 1200px)**
 
-**Pozrite si, čo sú [responsive breakpoints](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)**.
+**Pozrite si, čo sú [responsive breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/)**.
 
 **Pozrite si ukážku** [úvodnej stránky](zdroje/vsehochut-eshop-priklad.pdf). Aspoň taká by mala byť tiež úroveň abstrakcie vašich skíc.
 
@@ -52,7 +52,7 @@ Držme sa [vzorov](http://ui-patterns.com/), prílišné experimentovanie a extr
 
 Úroveň podrobností je veľmi dôžitá (angl. fidelity levels), závisí, čo chceme odkomunikovať, a v ktorej fáze návrhu sa nachádzame. V počiatočnej fáze sú vhodné skice s nízkou úrovňou podrobností (angl. low fidelity wireframes, lo-fi). Takéto skice sú určené na to, aby boli vytvorené rýchlo a lacno, ale zároveň zachytili podstatné aspekty návrhu, vrátane funkcionality rozhrania a správania jednotlivých častí. Nemusia byť pekné. Poskytujú základné informácie o usporiadaní stránky (angl. page layout), umožňujú tiež určiť typ(y) obsahu, definovať informačnú hierarchiu.
 
-Nemali by sme riešiť, ako budú vyzerať jednotlivé prvky z hľadiska ich grafického stvárnenia - umeleckého prevedenia, napr. či bude tlačidlo obdĺžnikové, alebo elipsovité, či bude mať červený rámik a transparentné pozadie, či použijeme plochý dizajn (angl. [flat design](https://en.wikipedia.org/wiki/Flat_design), FYI [ghost button](https://en.wikipedia.org/wiki/Flat_design)). Snažme sa, aby boli naše skice nespútané, aby to boli dostatočne presné, ale zároveň hrubé náčrty zachytávajúce potrebné prvky, aby sme boli schopní diskutovať o návrhových rozhodnutiach/nápadoch a pružne ich meniť.
+Nemali by sme riešiť, ako budú vyzerať jednotlivé prvky z hľadiska ich grafického stvárnenia - umeleckého prevedenia, napr. či bude tlačidlo obdĺžnikové, alebo elipsovité, či bude mať červený rámik a transparentné pozadie, či použijeme plochý dizajn (angl. [flat design](https://en.wikipedia.org/wiki/Flat_design)). Snažme sa, aby boli naše skice nespútané, aby to boli dostatočne presné, ale zároveň hrubé náčrty zachytávajúce potrebné prvky, aby sme boli schopní diskutovať o návrhových rozhodnutiach/nápadoch a pružne ich meniť.
 
 Skice s vysokou úrovňou podrobností (tiež blokové schémy, angl. high fidelity wireframes, hi-fi) sú vernejšie - približujú sa k realistickým maketám (angl. mockup). Zväčša sú to až akýsi medzi-výsledok práce grafického dizajnéra, ktorý postupne vytvára makety rozhrania z lo-fi skíc. Grafik dáva dômyselným aplikovaním [základných princípov dizajnu](https://vanseodesign.com/downloads/learn-design-fundamentals/) jednotlivým prvkom tvár, význam a dôležitosť. 
 
