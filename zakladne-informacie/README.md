@@ -27,16 +27,16 @@
 
 
 ### Sviatky LS 2023 
-* 7. – 10. 4. 2023 (piatok – pondelok) Veľkonočné sviatky 
-* 26. 4. 2023 (streda) IIT.SRC 2023 + TP Cup 2023: ukážka tímových projektov 
-* 1. 5. 2023 (pondelok) Sviatok práce 
-* 8. 5. 2023 (pondelok) Deň víťazstva nad fašizmom 
-* 5. 7. 2023 (streda) Sviatok svätého Cyrila a Metoda 
-* 29. 8. 2028 (utorok) Výročie SNP 
+* **7. - 10. 4. 2023 (piatok – pondelok)** Veľkonočné sviatky 
+* **26. 4. 2023 (streda)** IIT.SRC 2023 + TP Cup 2023: ukážka tímových projektov 
+* **1. 5. 2023 (pondelok)** Sviatok práce 
+* **8. 5. 2023 (pondelok)** Deň víťazstva nad fašizmom 
+* **5. 7. 2023 (streda)** Sviatok svätého Cyrila a Metoda 
+* **29. 8. 2028 (utorok)** Výročie SNP 
 
 ### Náhrada výučby LS 2023
-* 11. 4. 2023 (utorok) výučba ako v pondelok, náhrada 10. 4. 2023 
-* 9. 5. 2023 (utorok) výučba ako v utorok, náhrada 11. 4. 2023 
-* 10. 5. 2023 (streda) výučba ako v stredu, náhrada IIT.SRC 2023  
-* 11. 5. 2023 (štvrtok) výučba ako v pondelok, náhrada 1. 5. 2023 
-* 12. 5. 2023 (piatok) výučba ako v piatok, náhrada 7. 4. 2023 
+* **11. 4. 2023 (utorok)*v výučba ako v pondelok, náhrada 10. 4. 2023 
+* **9. 5. 2023 (utorok)** výučba ako v utorok, náhrada 11. 4. 2023 
+* **10. 5. 2023 (streda)** výučba ako v stredu, náhrada IIT.SRC 2023  
+* *v11. 5. 2023 (štvrtok)** výučba ako v pondelok, náhrada 1. 5. 2023 
+* **12. 5. 2023 (piatok)** výučba ako v piatok, náhrada 7. 4. 2023 
